@@ -1,2 +1,4 @@
 Second command to be committed.
 
+third command to be committed.
+
